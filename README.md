@@ -40,7 +40,7 @@ To generate the final teams, we have created the 3 models
 toss_decision.ipynb, run_prediction_innings_1.ipynb, run_prediction_innings_2.ipynb
 for the 4 teams that have qualified into semi-finals and then based on the runs scored decided the final two teams 
 
-* Team 11 for the two final teams *
+Team 11 for the two final teams
 Yet to be done
 
 # Task 3 
