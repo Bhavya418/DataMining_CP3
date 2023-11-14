@@ -34,15 +34,12 @@ c) Predicting the most run scored by a batsman
 
 We have used the following datasets: 
 
-1. upcoming_matches.csv:
 
-2. deliveries.csv
 
-3. points_table.csv
+1. deliveries.csv
 
-4. matches.csv
+2. matches.csv
 
-5. match_summary.csv
 
 To generate the final teams, we have created the 3 models 
 toss_decision.ipynb, run_prediction_innings_1.ipynb, run_prediction_innings_2.ipynb
