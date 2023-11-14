@@ -1,0 +1,1 @@
+var element=document.querySelector('[ng-click="setTab(\'mostWickets\')"]');if (element) {var event = new MouseEvent('click', {bubbles: true,cancelable: true,view: window});element.dispatchEvent(event);}
