@@ -50,7 +50,7 @@ Yet to be done
 
 # Task 3 
 
-* Winner Prediction *
+  Winner Prediction 
   We have used the following datasets: 
 
 1. ICC_rankings.csv:
