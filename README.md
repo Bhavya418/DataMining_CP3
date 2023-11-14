@@ -14,11 +14,19 @@
 
 Problem 1:
 
-Predicting the most dot balls by a batsman 
+We have used the following datasets:
+1. deliveries.csv
+2. other data were scraped from the ESPN's website the URLs are given below:
+   - 'https://www.espncricinfo.com/records/tournament/bowling-best-career-economy-rate/icc-cricket-world-cup-2023-24-15338'
+   - 'https://www.espncricinfo.com/records/tournament/batting-highest-career-batting-average/icc-cricket-world-cup-2023-24-15338'
 
-Predicting the most dot balls by a bowler
+And have joined the datasets as per the requirement.
 
-Predicting the most run runs by a batsman 
+a) Predicting the most dot balls by a batsman 
+
+b) Predicting the most dot balls by a bowler
+
+c) Predicting the most run scored by a batsman 
 
 # Task 2 
 
