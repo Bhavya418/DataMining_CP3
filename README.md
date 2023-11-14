@@ -14,11 +14,19 @@
 
 Problem 1:
 
-Predicting the most dot balls by a batsman 
+We have used the following datasets:
+1. deliveries.csv
+2. other data were scraped from the ESPN's website the URLs are given below:
+   - 'https://www.espncricinfo.com/records/tournament/bowling-best-career-economy-rate/icc-cricket-world-cup-2023-24-15338'
+   - 'https://www.espncricinfo.com/records/tournament/batting-highest-career-batting-average/icc-cricket-world-cup-2023-24-15338'
 
-Predicting the most dot balls by a bowler
+And have joined the datasets as per the requirement.
 
-Predicting the most run runs by a batsman 
+a) Predicting the most dot balls by a batsman 
+
+b) Predicting the most dot balls by a bowler
+
+c) Predicting the most run scored by a batsman 
 
 # Task 2 
 
@@ -26,26 +34,24 @@ Predicting the most run runs by a batsman
 
 We have used the following datasets: 
 
-1. upcoming_matches.csv:
 
-2. deliveries.csv
 
-3. points_table.csv
+1. deliveries.csv
 
-4. matches.csv
+2. matches.csv
 
-5. match_summary.csv
 
 To generate the final teams, we have created the 3 models 
 toss_decision.ipynb, run_prediction_innings_1.ipynb, run_prediction_innings_2.ipynb
 for the 4 teams that have qualified into semi-finals and then based on the runs scored decided the final two teams 
 
-*Team 11 for the two final teams *
+Team 11 for the two final teams
 Yet to be done
 
-#Task 3 
+# Task 3 
 
-* Winner Prediction *
+  Winner Prediction
+  
   We have used the following datasets: 
 
 1. ICC_rankings.csv:
