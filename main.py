@@ -63,9 +63,6 @@ def predict(data:WinnerData):
     prediction_set = prediction_set.drop(['Winner'], axis=1)
     print(prediction_set)
     pred = classifier.predict(prediction_set)
-    # index = pred.argmax()
-    # variable = pred[0]
-    # print(prediction_set)
     print(pred)
     # prediction = classifier.predict(prediction_set)
     # print(prediction)
