@@ -1,195 +1,195 @@
 ,Winner,Team_1_Position,Team_2_Position,Team_1_Afghanistan,Team_1_Australia,Team_1_Bangladesh,Team_1_England,Team_1_India,Team_1_Netherlands,Team_1_New Zealand,Team_1_Pakistan,Team_1_South Africa,Team_1_Sri Lanka,Team_2_Afghanistan,Team_2_Australia,Team_2_Bangladesh,Team_2_England,Team_2_India,Team_2_Netherlands,Team_2_New Zealand,Team_2_Pakistan,Team_2_South Africa,Team_2_Sri Lanka
-0,New Zealand ,6,5,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-1,Bangladesh ,8,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
-2,South Africa,3,5,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False
-3,England,6,2,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
-6,New Zealand,5,2,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False
-7,Australia,2,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
-8,India,1,5,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-9,New Zealand,5,8,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False
-10,England ,1,6,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
-12,South Africa ,3,7,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True
-13,South Africa ,3,7,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True
-14,South Africa ,5,3,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False
-15,New Zealand ,8,5,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-17,India ,8,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
-19,India ,7,1,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False
-20,India ,1,2,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
-21,India ,1,2,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
-22,India ,1,2,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
-24,Australia,2,6,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
-25,England,5,6,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False
-26,South Africa,7,3,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False
-27,Sri Lanka,7,3,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False
-28,England,7,6,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False
-30,New Zealand,5,7,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True
-32,New Zealand,5,8,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False
-36,New Zealand,5,3,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False
-37,India,9,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
-38,England,6,1,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
-39,England,6,5,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-40,South Africa,2,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
-41,England,6,5,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-42,Sri Lanka,7,8,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False
-43,Sri Lanka,7,8,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False
-44,Sri Lanka,7,8,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False
-47,India,1,2,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
-48,India,1,2,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
-49,South Africa,3,6,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False
-50,New Zealand,5,1,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False
-51,New Zealand,5,1,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False
-52,England,3,6,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False
-53,New Zealand,5,1,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False
-54,South Africa,3,2,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False
-55,South Africa,3,2,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False
-56,South Africa,3,2,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False
-57,Australia,2,5,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-58,Australia,6,2,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
-59,England,6,2,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
-60,Australia,6,2,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
-61,Australia,2,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
-62,Australia,2,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
-63,India,2,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
-64,New Zealand,5,8,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False
-65,India,1,6,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
-66,New Zealand,5,8,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False
-67,England,1,6,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
-68,New Zealand,5,8,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False
-69,India,1,6,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
-73,Bangladesh,8,7,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
-74,Bangladesh,8,7,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
-75,Sri Lanka,8,7,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
-76,England,6,7,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
-77,England,6,7,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
-81,India,7,1,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False
-82,India,7,1,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False
-83,Sri Lanka,7,1,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False
-84,Sri Lanka,7,3,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False
-85,South Africa,7,3,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False
-86,Sri Lanka,7,3,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False
-87,South Africa,3,1,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False
-88,Afghanistan,9,10,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
-89,South Africa,3,1,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False
-90,Afghanistan,9,10,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
-91,South Africa,3,1,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False
-92,Afghanistan,9,10,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
-93,Bangladesh,8,9,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
-94,Bangladesh,8,9,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
-95,Afghanistan,8,9,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
-96,Bangladesh,3,8,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False
-97,South Africa,3,8,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False
-98,Bangladesh,3,8,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False
-99,New Zealand,5,10,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False
-103,New Zealand,5,10,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False
-104,New Zealand,5,10,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False
-105,Australia,7,2,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
-106,Sri Lanka,7,2,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
-107,England,10,6,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False
-108,England,10,6,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False
-109,Sri Lanka,7,2,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
-110,Sri Lanka,7,2,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
-111,England,10,6,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False
-112,Australia,7,2,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
-113,India,6,1,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
-114,England,6,1,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
-115,India,6,1,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
-116,South Africa,6,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
-117,England,6,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
-121,Australia,2,5,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-122,Australia,2,5,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-123,Australia,2,5,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-124,South Africa,1,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
-125,India,1,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
-126,India,1,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
-127,Australia,2,6,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
-128,Australia,2,6,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
-129,Australia,2,6,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
-130,New Zealand,5,1,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False
-131,Afghanistan,7,9,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False
-132,Sri Lanka,7,9,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False
-133,Bangladesh,8,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
-134,Bangladesh,8,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
-135,India,8,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
-137,India,1,7,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
-139,India,1,7,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
-140,India,1,7,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
-141,India,1,5,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-142,India,1,5,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-143,India,1,5,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-144,South Africa,3,6,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False
-145,South Africa,3,6,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False
-146,England,3,6,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False
-147,England,8,6,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
-148,England,8,6,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
-149,Bangladesh,8,6,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
-150,India,1,2,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
-151,Australia,1,2,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
-152,Australia,1,2,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
-153,New Zealand,5,7,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True
-154,South Africa,3,10,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False
-155,New Zealand,5,7,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True
-161,Afghanistan,7,9,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False
-162,Sri Lanka,7,9,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False
-163,Sri Lanka,7,9,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False
-164,Sri Lanka,10,7,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True
-165,Afghanistan,8,9,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
-166,Afghanistan,8,9,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
-167,Sri Lanka,10,7,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True
-168,Bangladesh,8,9,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
-172,Sri Lanka,7,8,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False
-173,Bangladesh,9,8,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
-174,Sri Lanka,9,7,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
-176,Australia,3,2,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False
-177,New Zealand,6,5,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-178,Sri Lanka,7,8,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False
-179,Australia,3,2,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False
-181,England,6,5,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-182,India,7,1,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False
-183,South Africa,3,2,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False
-184,England,6,5,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-186,India,8,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
-187,South Africa,3,2,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False
-188,England,6,5,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-189,South Africa,3,2,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False
-190,India,7,1,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False
-191,India,1,2,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
-192,New Zealand,8,5,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-193,India,1,2,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
-194,New Zealand,8,5,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-195,Australia,1,2,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
-196,New Zealand,6,5,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-198,Bangladesh,9,8,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
-199,South Africa,3,7,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True
-200,India,1,2,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
-201,New Zealand,10,5,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-202,England,8,6,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
-204,India,1,9,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
-205,South Africa,2,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
-206,New Zealand,8,5,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-208,Afghanistan,9,6,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
-209,Australia,2,7,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
-210,Netherlands,10,3,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False
-211,New Zealand,9,5,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-212,India,1,8,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
-214,Sri Lanka,10,7,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True
-215,South Africa,6,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
-216,India,1,5,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-218,South Africa,8,3,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
-219,Australia,2,10,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
-220,Sri Lanka,6,7,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
-222,Australia,2,5,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-223,Netherlands,8,10,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
-224,India,1,6,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
-225,Afghanistan,9,7,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
-227,South Africa,5,3,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False
-228,India,1,7,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
-229,Afghanistan,9,10,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
-231,Australia,2,6,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
-232,India,1,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
-233,Bangladesh,8,7,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
-234,Australia,9,2,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
-235,England,6,10,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
-236,New Zealand,5,7,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True
-237,South Africa,9,3,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
-238,Australia,2,8,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
-240,India,1,10,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+0,New Zealand ,6.0,5.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+1,Bangladesh ,8.0,1.0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+2,South Africa,3.0,5.0,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+3,England,6.0,2.0,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+6,New Zealand,5.0,2.0,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False
+7,Australia,2.0,3.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+8,India,1.0,5.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+9,New Zealand,5.0,8.0,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False
+10,England ,1.0,6.0,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+12,South Africa ,3.0,7.0,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True
+13,South Africa ,3.0,7.0,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True
+14,South Africa ,5.0,3.0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False
+15,New Zealand ,8.0,5.0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+17,India ,8.0,1.0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+19,India ,7.0,1.0,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False
+20,India ,1.0,2.0,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+21,India ,1.0,2.0,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+22,India ,1.0,2.0,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+24,Australia,2.0,6.0,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+25,England,5.0,6.0,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+26,South Africa,7.0,3.0,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+27,Sri Lanka,7.0,3.0,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+28,England,7.0,6.0,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False
+30,New Zealand,5.0,7.0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True
+32,New Zealand,5.0,8.0,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False
+36,New Zealand,5.0,3.0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False
+37,India,9.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+38,England,6.0,1.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+39,England,6.0,5.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+40,South Africa,2.0,3.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+41,England,6.0,5.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+42,Sri Lanka,7.0,8.0,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False
+43,Sri Lanka,7.0,8.0,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False
+44,Sri Lanka,7.0,8.0,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False
+47,India,1.0,2.0,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+48,India,1.0,2.0,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+49,South Africa,3.0,6.0,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+50,New Zealand,5.0,1.0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False
+51,New Zealand,5.0,1.0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False
+52,England,3.0,6.0,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+53,New Zealand,5.0,1.0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False
+54,South Africa,3.0,2.0,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False
+55,South Africa,3.0,2.0,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False
+56,South Africa,3.0,2.0,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False
+57,Australia,2.0,5.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+58,Australia,6.0,2.0,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+59,England,6.0,2.0,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+60,Australia,6.0,2.0,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+61,Australia,2.0,1.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+62,Australia,2.0,1.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+63,India,2.0,1.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+64,New Zealand,5.0,8.0,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False
+65,India,1.0,6.0,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+66,New Zealand,5.0,8.0,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False
+67,England,1.0,6.0,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+68,New Zealand,5.0,8.0,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False
+69,India,1.0,6.0,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+73,Bangladesh,8.0,7.0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+74,Bangladesh,8.0,7.0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+75,Sri Lanka,8.0,7.0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+76,England,6.0,7.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+77,England,6.0,7.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+81,India,7.0,1.0,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False
+82,India,7.0,1.0,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False
+83,Sri Lanka,7.0,1.0,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False
+84,Sri Lanka,7.0,3.0,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+85,South Africa,7.0,3.0,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+86,Sri Lanka,7.0,3.0,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+87,South Africa,3.0,1.0,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False
+88,Afghanistan,9.0,10.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+89,South Africa,3.0,1.0,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False
+90,Afghanistan,9.0,10.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+91,South Africa,3.0,1.0,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False
+92,Afghanistan,9.0,10.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+93,Bangladesh,8.0,9.0,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+94,Bangladesh,8.0,9.0,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+95,Afghanistan,8.0,9.0,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+96,Bangladesh,3.0,8.0,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False
+97,South Africa,3.0,8.0,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False
+98,Bangladesh,3.0,8.0,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False
+99,New Zealand,5.0,10.0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False
+103,New Zealand,5.0,10.0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False
+104,New Zealand,5.0,10.0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False
+105,Australia,7.0,2.0,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
+106,Sri Lanka,7.0,2.0,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
+107,England,10.0,6.0,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+108,England,10.0,6.0,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+109,Sri Lanka,7.0,2.0,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
+110,Sri Lanka,7.0,2.0,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
+111,England,10.0,6.0,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+112,Australia,7.0,2.0,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
+113,India,6.0,1.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+114,England,6.0,1.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+115,India,6.0,1.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+116,South Africa,6.0,3.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+117,England,6.0,3.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+121,Australia,2.0,5.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+122,Australia,2.0,5.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+123,Australia,2.0,5.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+124,South Africa,1.0,3.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+125,India,1.0,3.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+126,India,1.0,3.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+127,Australia,2.0,6.0,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+128,Australia,2.0,6.0,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+129,Australia,2.0,6.0,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+130,New Zealand,5.0,1.0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False
+131,Afghanistan,7.0,9.0,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False
+132,Sri Lanka,7.0,9.0,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False
+133,Bangladesh,8.0,1.0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+134,Bangladesh,8.0,1.0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+135,India,8.0,1.0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+137,India,1.0,7.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+139,India,1.0,7.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+140,India,1.0,7.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+141,India,1.0,5.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+142,India,1.0,5.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+143,India,1.0,5.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+144,South Africa,3.0,6.0,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+145,South Africa,3.0,6.0,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+146,England,3.0,6.0,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+147,England,8.0,6.0,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+148,England,8.0,6.0,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+149,Bangladesh,8.0,6.0,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+150,India,1.0,2.0,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+151,Australia,1.0,2.0,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+152,Australia,1.0,2.0,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+153,New Zealand,5.0,7.0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True
+154,South Africa,3.0,10.0,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False
+155,New Zealand,5.0,7.0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True
+161,Afghanistan,7.0,9.0,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False
+162,Sri Lanka,7.0,9.0,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False
+163,Sri Lanka,7.0,9.0,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False
+164,Sri Lanka,10.0,7.0,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+165,Afghanistan,8.0,9.0,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+166,Afghanistan,8.0,9.0,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+167,Sri Lanka,10.0,7.0,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+168,Bangladesh,8.0,9.0,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+172,Sri Lanka,7.0,8.0,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False
+173,Bangladesh,9.0,8.0,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+174,Sri Lanka,9.0,7.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+176,Australia,3.0,2.0,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False
+177,New Zealand,6.0,5.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+178,Sri Lanka,7.0,8.0,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False
+179,Australia,3.0,2.0,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False
+181,England,6.0,5.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+182,India,7.0,1.0,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False
+183,South Africa,3.0,2.0,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False
+184,England,6.0,5.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+186,India,8.0,1.0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+187,South Africa,3.0,2.0,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False
+188,England,6.0,5.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+189,South Africa,3.0,2.0,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False
+190,India,7.0,1.0,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False
+191,India,1.0,2.0,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+192,New Zealand,8.0,5.0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+193,India,1.0,2.0,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+194,New Zealand,8.0,5.0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+195,Australia,1.0,2.0,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+196,New Zealand,6.0,5.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+198,Bangladesh,9.0,8.0,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+199,South Africa,3.0,7.0,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True
+200,India,1.0,2.0,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+201,New Zealand,10.0,5.0,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+202,England,8.0,6.0,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+204,India,1.0,9.0,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+205,South Africa,2.0,3.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+206,New Zealand,8.0,5.0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+208,Afghanistan,9.0,6.0,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+209,Australia,2.0,7.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+210,Netherlands,10.0,3.0,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+211,New Zealand,9.0,5.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+212,India,1.0,8.0,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+214,Sri Lanka,10.0,7.0,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+215,South Africa,6.0,3.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+216,India,1.0,5.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+218,South Africa,8.0,3.0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+219,Australia,2.0,10.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+220,Sri Lanka,6.0,7.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+222,Australia,2.0,5.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+223,Netherlands,8.0,10.0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+224,India,1.0,6.0,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+225,Afghanistan,9.0,7.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+227,South Africa,5.0,3.0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False
+228,India,1.0,7.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+229,Afghanistan,9.0,10.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+231,Australia,2.0,6.0,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+232,India,1.0,3.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+233,Bangladesh,8.0,7.0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+234,Australia,9.0,2.0,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+235,England,6.0,10.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+236,New Zealand,5.0,7.0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True
+237,South Africa,9.0,3.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+238,Australia,2.0,8.0,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+240,India,1.0,10.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
