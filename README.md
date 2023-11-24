@@ -132,4 +132,5 @@ Task 1 :
  Bhavya Shah (202101426), Vedant Shah (202101507)
 
  We have taken help from our batchmates
-Sakshi Patadiya, Dhruv Shah
+Vrishin for team 11 prediction
+And for icc_world cup prediction we have taken help from kaggle 
